@@ -12,7 +12,6 @@ I’m interested in turning requirements and data into practical solutions while
 | --- | --- |
 | [Thailand Flood Risk Data Pipeline](https://github.com/iimmyyy/flood-monitoring) | Academic data engineering with Kafka, Airflow, HDFS and Hive, from ingestion to data-quality checks and analytical exports. |
 | [Nutras Didactic Website](https://github.com/iimmyyy/natras_test) | A business product website built with Next.js and TypeScript, with Sanity CMS integration for products, articles and events. |
-| [JPacman CI contribution](https://github.com/iimmyyy/jpacman) | GitHub Actions configuration for an existing Java/Gradle teaching project, including JaCoCo coverage badges. |
 
 ## Experience and interests
 
